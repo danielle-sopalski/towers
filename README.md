@@ -42,3 +42,5 @@ Generally, I've been printing with:
 * Rectilinear top and bottom surface pattern for the bucket lid; concentric top and rectilinear bottom surface pattern for the planter modules, bucket lid cap, bucket lid lock-ring, bucket lid cable glands, tower chimney, chimney lid
 * **No supports**
 * Gyroid infill, 15%
+
+Models from this project are also published to [Thangs](https://thangs.com/designer/danielle.sopalski/3d-model/Dani%27s%20Miniature%20Grow%20Towers-995522?manualModelView=true&source=All+Files) and [Thingiverse](https://www.thingiverse.com/thing:6444781).
