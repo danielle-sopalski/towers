@@ -24,7 +24,7 @@ A number of things need improvement:
 * The manual needs an introduction, a sensible list of precautions, cleaning and maintenance recommendations, and general proofreading and refinement.
 * The Fusion 360 files need to be cleaned up. I'm bad at keeping things organized while I work.
 * **The current design only suits a common Australian brand of 5L bucket.** I'd love it if folks could contribute revised versions that suit buckets available in other parts of the world.
-* We need a good open-source license that allows individuals to freely produce and sell these towers while excluding large manufacturers, corporations, and the wealthy.
+* We need a good open-source license that allows individuals to freely produce and sell these towers while excluding large manufacturers, corporations, and the wealthy. For now, I'm opting for the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Printing Recommendations
 
