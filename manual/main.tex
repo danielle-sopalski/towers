@@ -1,0 +1,91 @@
+%% Overleaf			
+%% Software Manual and Technical Document Template	
+%% 									
+%% This provides an example of a software manual created in Overleaf.
+
+\documentclass{tower-manual}
+
+\usepackage{draftwatermark}
+
+% Packages used in this example
+\usepackage{graphicx}  % for including images
+\graphicspath{ {./images} }
+\usepackage{microtype} % for typographical enhancements
+\usepackage[hidelinks]{hyperref}  % for hyperlinks
+\usepackage[a5paper,top=2cm,bottom=2cm,left=1cm,right=1cm]{geometry} % for setting page size and margins
+\usepackage{enumitem}
+\setlist{itemsep=0.25mm}
+\usepackage{lipsum}
+
+\usepackage{caption}
+% \DeclareCaptionLabelFormat{simple}
+\DeclareCaptionLabelSeparator{none}{}
+\captionsetup{labelformat=simple, labelsep=none}
+
+% Custom macros used in this example document
+\newcommand{\doclink}[2]{\href{#1}{#2}\footnote{\url{#1}}}
+\newcommand{\cs}[1]{\texttt{\textbackslash #1}}
+
+% Frontmatter data; appears on title page
+\title{Dani's Indoor Grow Towers \\User Manual}
+\author{Rev. 0.0.1}
+\date{}
+% \author{Overleaf}
+% \softwarelogo{\includegraphics[width=8cm]{logo}}
+
+\begin{document}
+
+\pagenumbering{gobble}
+
+\begin{titlepage}
+    \maketitle
+
+    \begin{center}
+        \begin{minipage}{0.45\textwidth}
+            \includegraphics[width=1.0\textwidth]{images/80mm_wireframe.png}
+        \end{minipage}
+        \hfill
+        \begin{minipage}{0.45\textwidth}
+            \includegraphics[width=1.0\textwidth]{images/50mm_wireframe.png}
+        \end{minipage}
+    \end{center}
+\end{titlepage}
+
+\blankpage
+
+\tableofcontents
+
+\newpage
+\blankpage
+
+\pagenumbering{arabic}
+
+\section{Introduction}
+
+\lipsum[1-2]
+
+\newpage
+
+\section{Precautions}
+
+\input{precautions}
+
+\newpage
+
+\section{Assembly Instructions -- 80mm}
+
+\input{assembly-80mm}
+
+\clearpage
+
+\section{Assembly Instructions -- 50mm}
+
+\input{assembly-50mm}
+
+\clearpage
+
+\section{Cleaning Suggestions}
+
+\input{cleaning-suggestions}
+
+\end{document}
