@@ -1,3 +1,5 @@
+**Hey folks!** I thought it would be neat to create a Discord server where people can show off their setups, ask questions, and share advice. It may end up only being a few people, but maybe it'll be fun. :) Here it is: https://discord.gg/HeSEEaH6
+
 # Miniature, Modular, Indoor Grow Towers
 
 ![Image of three grow towers](towers.jpg)
