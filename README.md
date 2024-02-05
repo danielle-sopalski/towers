@@ -29,7 +29,7 @@ First things first: **Talk to the folks at your local hydroponics shop.** They'r
 * A way to adapt your pump's outlet to 13mm tubing.
 * A length of 13mm tubing equal to the distance from your pump's outlet to shower head inlet about halfway up the "chimney module" -- that's the module at the top into which the shower head is inserted.
 * A bucket to serve as your system's reservoir. At the moment, the design suits only Ayva brand 5L buckets. These are an Australian make of bucket commonly available individually at Bunnings Warehouse under the brand name [Handy Pail](https://www.bunnings.com.au/handy-pail-5l-plastic-pail-with-lid_p4475883). My hope is that as people take notice of the project, folks will contribute revised bucket lid designs suitable for buckets available in countries other than Australia.
-* Either 50mm or 80mm net pots. While I haven't included a design for those in this project, there are actually a [ton of available printable versions](https://thangs.com/search/net%20pot?scope=all)!
+* Either 50mm or 80mm net pots (external diameter). While I haven't included a design for those in this project, there are actually a [ton of available printable versions](https://thangs.com/search/net%20pot?scope=all)!
 
 #### Tools:
 * A pH meter is really important to make sure your nutrient solution is in the right pH range for your plants.
